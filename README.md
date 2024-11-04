@@ -57,3 +57,5 @@ Share Data Through the Art of Visualization(Introduction to communicating data i
 * Misleading visualizations can include truncated y-axes or inaccurate proportions.
 # By following best practices and avoiding common pitfalls, you can create visualizations that are both informative and honest.
 
+Correlation and causation
+
