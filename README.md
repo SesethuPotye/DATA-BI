@@ -142,5 +142,30 @@ Summary in Bullet Points:
 * Pellagra: Initially thought to be caused by unsanitary conditions, but later found to be due to niacin deficiency.
 * SNAP benefits: Analyzing website traffic to identify reasons for low sign-up rates.
 
+# The wonderful world of visualizations
+# Data visualization is essential for effectively communicating complex information.
+
+# LINE CHARTS
+* Line charts are ideal for tracking changes over time.
+* They are well-suited for identifying trends and comparing multiple groups.
+
+# COLUMN CHART
+* Column charts use size to contrast and compare two or more values, using height or lengths to represent the specific values.
+  
+# Heatmap 
+* Similar to bar charts, heatmaps also use color to compare categories in a data set.
+* They are mainly used to show relationships between two variables and use a system of color-coding to represent different values.
+  
+# Pie chart
+* The pie chart is a circular graph that is divided into segments representing proportions corresponding to the quantity it represents, especially when dealing with parts of a whole.
+
+# Scatterplot
+* Scatterplots show relationships between different variables.
+* Scatterplots are typically used for two variables for a set of data, although additional variables can be displayed.
+
+# Distribution graph
+* 
+
+
 
 
