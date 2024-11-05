@@ -164,7 +164,25 @@ Summary in Bullet Points:
 * Scatterplots are typically used for two variables for a set of data, although additional variables can be displayed.
 
 # Distribution graph
-* 
+
+* A distribution graph displays the spread of various outcomes in a dataset.
+
+# Data grows on decision trees
+Decision tree uses
+
+A decision tree is a flowchart that you can use to help frame larger decisions as a series of smaller yes/no decisions. These are useful when trying to choose the best data visualization to communicate a given message to your audience. Because different visualizations have different strengths and weaknesses, a decision tree can help you pick the best visualization for your data and audience. Here’s the decision tree you examined earlier in this course
+# Choosing the Right Visualization
+
+To effectively communicate data insights, selecting the appropriate visualization technique is crucial. A decision tree can guide this process:
+
+* Single Numeric Variable: Use histograms or density plots to visualize the distribution of values.
+Multiple Datasets:
+* Changes Over Time: Line charts for smaller changes, bar charts for larger changes.
+* Comparisons: Pie charts for proportions, bar charts for categorical comparisons.
+Relationships Between Variables:
+* Scatter Plots: Visualize the correlation between two numerical variables.
+* Heatmaps: Represent relationships between many variables, especially when data points are numerous.
+By considering these factors and following a decision tree approach, you can create visualizations that accurately convey your data's story.
 
 
 
