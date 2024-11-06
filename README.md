@@ -225,5 +225,41 @@ Additionally, consider the following principles for creating effective visualiza
 * Refined execution: Pay attention to detail and use design principles effectively.
 By understanding these principles and selecting the appropriate chart types, you can create visualizations that are both informative and visually appealing.
 
+# Design thinking for visualization improvement
+
+Design thinking is a valuable approach to enhance data visualization, particularly for interactive dashboards. It involves five key phases:
+
+* Empathize: Understand the user's perspective, needs, and emotions.
+* Define: Clearly articulate the problem or goal the visualization aims to solve.
+* Ideate: Generate creative ideas for visualizing the data.
+* Prototype: Create a tangible representation of the visualization.
+* Test: Gather feedback on the prototype to refine it.
+Example: Online Banking Dashboard
+
+By applying design thinking to an online banking dashboard, we can improve its effectiveness:
+
+* Empathize: Consider the user's goals, such as saving money or tracking spending.
+* Define: Identify specific needs beyond budgeting, like tracking income or discretionary spending.
+* Ideate: Propose additional visualizations, like bar charts, line charts, or custom categories.
+* Prototype: Develop a new version of the dashboard with the suggested improvements.
+* Test: Evaluate the prototype to ensure it meets user needs and expectations.
+By following these steps, analysts can play a crucial role in improving data visualizations and dashboards, even if they aren't directly involved in the technical implementation.
+
+# Pro Tips for Highlighting Key Information in Data Visualization
+This passage offers guidelines for using text elements to make data visualizations more engaging and informative. Here are the key takeaways:
+
+* Headlines: Capture attention and clearly state what data is presented.
+* Subtitles: Provide additional context and details to support the headline.
+* Labels: Identify data points and axes, making the chart easier to interpret.
+* Annotations: Direct the audience's focus to specific data points or trends.
+
+# General Tips:
+
+* Keep text concise and avoid jargon.
+* Use clear and consistent formatting (font size, color).
+* Don't overload the visualization with text elements.
+* Following these guidelines helps create data visualizations that are clear, informative, and engaging for your audience.
+
+#  Accessible visualizations
 
 
