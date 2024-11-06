@@ -334,3 +334,39 @@ Steps:
 By following these steps and considering the audience's needs, you can create data visualizations that are informative, engaging, and impactful.
 
 
+Great job on summarizing the terms and definitions!
+
+Here's a quick recap of some key concepts:
+
+Design Principles:
+
+* Balance: Ensuring visual elements are evenly distributed.
+* Emphasis: Drawing attention to important information.
+* Movement: Guiding the viewer's eye through the visualization.
+* Pattern: Using repetition to highlight trends and relationships.
+* Proportion: Using relative size to convey importance.
+* Repetition: Repeating visual elements for consistency.
+* Unity: Combining elements to create a cohesive whole.
+* Variety: Using different elements to maintain interest.
+  
+# Data Visualization Types:
+
+* Bar charts: Comparing categories.
+* Line charts: Showing trends over time.
+* Pie charts: Representing proportions of a whole.
+* Scatter plots: Revealing relationships between variables.
+* Histograms: Displaying frequency distributions.
+* Heat maps: Visualizing data density.
+SQL Concepts:
+
+* CREATE TABLE: Creating a new table.
+* DROP TABLE: Deleting a table.
+* SELECT INTO: Copying data into a new table.
+* HAVING: Filtering results based on aggregate functions.
+* INNER QUERY: Nested queries to filter data.
+* CONVERT: Changing data types or units.
+* Remember: Effective data visualization is about telling a story with data.
+
+By understanding these terms and applying design principles, you can create visualizations that are both informative and visually appealing.
+
+
