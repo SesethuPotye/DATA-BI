@@ -370,3 +370,5 @@ SQL Concepts:
 By understanding these terms and applying design principles, you can create visualizations that are both informative and visually appealing.
 
 
+
+
